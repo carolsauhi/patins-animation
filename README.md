@@ -32,4 +32,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## Projeto
 
 Nesse projeto eu desenvolvi a Landing Page responsiva de um patins com muitas animações e transições!
-Esse é um dos projetos desenvolvidos em aula na formação Full-stack, um de nossos conteúdos de especialização.
+Esse é um dos projetos desenvolvidos em aula na formação MBA Full-stack.
